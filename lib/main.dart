@@ -6,7 +6,7 @@ import './random_words.dart';
    @override 
    Widget build(BuildContext context){
      return MaterialApp(
-       theme: ThemeData(primaryColor: Colors.green),
+       theme: ThemeData(primaryColor: Colors.red),
        home: RandomWords()
      );
    }
